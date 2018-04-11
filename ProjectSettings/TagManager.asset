@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GardenCollider
+  - Zone_1
+  - Cubes
+  - Zone_0
+  - Zone_2
+  - scene_03_TAmurCork
+  - scene_03_TRiverBirch
+  - scene_03_TMagnolia
+  - scene_03_pointerInclude
+  - replacePrefab
+  - Manager
+  - WateringCan_2
+  - WateringCan_1
+  - WateringCan_0
+  - Saucers
+  - GardenCol
+  - RobotCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ignore_Pointer
+  - Icons
+  - Portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
