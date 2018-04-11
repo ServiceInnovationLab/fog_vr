@@ -14,7 +14,7 @@ Instructions
  3. Wait for library to re compile might take 10-20 min
  4. Then dive on in
 
-Global Assets
+## Global Assets
  1. Title: Huge FBX Mocap Library
 Author: cmonkeys
 Licence: Free for all uses
@@ -68,7 +68,9 @@ Source: https://www.flickr.com/photos/gritzi/1542074232
 Author: SojanJanso
 Licence: Creative Commons 0 (CC BY 0)
 Source:  https://pixabay.com/en/seamless-tileable-texture-gravel-1747009/
-Scene_01 Assets
+
+
+## Scene_01 Assets
    1. Title: Bean Bag Chair
 Author: khanhnguyen1189
 Licence: Attribution 4.0 International (CC BY 4.0)
